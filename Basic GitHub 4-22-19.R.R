@@ -33,7 +33,7 @@ https://help.github.com/en/desktop
 
 #Using this tutorial: http://learn.r-journalism.com/en/git/git/git/
 #alternatives: bitbucket gitlab
-#1. Create html
+#1. Create html 
 
 
 
