@@ -9,8 +9,8 @@ https://help.github.com/en/desktop
 #Exercise
 #1. Create a test repository, call it "Junk"
 #2. Commit copies of a random R script and a random text .txt file
-#3. Pair up with a buddy. Follow them on GitHub
-#4. Fork their Junk repository
+#3. Pair up with Halie
+#4. Fork her Junk repository
 #5. Report an Issue on their repository. See slides #47-53
 #6. Create a pull request on their repository. See slides #54-68
 #7. Resolve the issues and pull request for your own GitHub account.
