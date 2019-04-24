@@ -1,5 +1,12 @@
 #Notes on GitHub
-#
+#YOU NEED TO REVEL IN YOUR NERD POWERS
+
+#RANDOM CODE
+git config --global user.email "your@email.com"
+git config --global user.name "your name"
+#END OF RANDOM CODE
+
+
 #Max Harlow Presentation on How to Use GitHub
 https://docs.google.com/presentation/d/1MbltRcOerktc-E26HMDjYj0BO9CTubQWu1Z2bB9CpVY/edit#slide=id.g448ccc227721fe56_10
 
